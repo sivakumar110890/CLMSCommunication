@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CLMS Communication testing suite]">
+  <test thread-count="5" name="CLMS Login for Trigger(failed)">
+    <classes>
+      <class name="testSuite.TC_01_Communication_Search">
+        <methods>
+          <include name="quitBrowser"/>
+          <include name="CommunicationSearchTestExecution"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- testSuite.TC_01_Communication_Search -->
+    </classes>
+  </test> <!-- CLMS Login for Trigger(failed) -->
+</suite> <!-- Failed suite [CLMS Communication testing suite] -->

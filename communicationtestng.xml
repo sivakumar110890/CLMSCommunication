@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="CLMS Communication testing suite">
+<test name = "CLMS Login for Trigger">
+<classes>
+<class name="testSuite.loginTest"/>
+<class name="testSuite.TC_01_Communication_Search"/>
+</classes>
+</test>
+
+
+</suite>

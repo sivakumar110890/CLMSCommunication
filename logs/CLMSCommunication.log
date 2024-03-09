@@ -1,0 +1,42 @@
+2023-04-27 18:57:23 INFO  commonFunctions:37 - Test execution is started 
+ 2023-04-27 18:57:43 INFO  commonFunctions:63 - Test execution is completed 
+ 2023-04-27 19:02:07 INFO  commonFunctions:41 - Test execution is started 
+ 2023-04-27 19:02:57 INFO  commonFunctions:41 - Test execution is started 
+ 2023-04-27 19:04:04 INFO  commonFunctions:41 - Test execution is started 
+ 2023-04-27 19:04:20 INFO  commonFunctions:70 - Test execution is completed 
+ 2023-04-27 19:07:51 INFO  commonFunctions:41 - Test execution is started 
+ 2023-04-27 19:08:24 INFO  commonFunctions:70 - Test execution is completed 
+ 2023-04-28 10:44:26 INFO  commonFunctions:43 - Test execution is started 
+ 2023-04-28 10:46:05 INFO  commonFunctions:43 - Test execution is started 
+ 2023-04-28 10:47:50 INFO  commonFunctions:43 - Test execution is started 
+ 2023-04-28 10:48:09 INFO  commonFunctions:43 - Test execution is started 
+ 2023-04-28 10:48:24 INFO  commonFunctions:73 - Test execution is completed 
+ 2023-04-28 11:45:01 INFO  commonFunctions:43 - Test execution is started 
+ 2023-04-28 11:45:19 INFO  TC_01_Communication_Search:22 - ===================================================
+ 2023-04-28 11:45:19 INFO  TC_01_Communication_Search:23 - ==== Communication search test case execution is started ====
+ 2023-04-28 11:45:44 INFO  TC_01_Communication_Search:29 - ==== communication id is entered  ====
+ 2023-04-28 11:45:46 INFO  TC_01_Communication_Search:43 - ==== Communication search button is clicked ====
+ 2023-04-28 11:45:57 INFO  commonFunctions:73 - Test execution is completed 
+ 2023-04-28 11:48:18 INFO  commonFunctions:43 - Test execution is started 
+ 2023-04-28 11:48:37 INFO  TC_01_Communication_Search:22 - ===================================================
+ 2023-04-28 11:48:37 INFO  TC_01_Communication_Search:23 - ==== Communication search test case execution is started ====
+ 2023-04-28 11:49:09 INFO  TC_01_Communication_Search:29 - ==== communication id is entered  ====
+ 2023-04-28 11:49:10 INFO  TC_01_Communication_Search:43 - ==== Communication search button is clicked ====
+ 2023-04-28 11:49:20 INFO  commonFunctions:73 - Test execution is completed 
+ 2023-04-28 12:00:56 INFO  commonFunctions:43 - Test execution is started 
+ 2023-04-28 12:01:16 INFO  TC_01_Communication_Search:22 - ===================================================
+ 2023-04-28 12:01:16 INFO  TC_01_Communication_Search:23 - ==== Communication search test case execution is started ====
+ 2023-04-28 12:02:12 INFO  TC_01_Communication_Search:29 - ==== communication id is entered  ====
+ 2023-04-28 12:02:14 INFO  TC_01_Communication_Search:43 - ==== Communication search button is clicked ====
+ 2023-04-28 12:02:25 INFO  commonFunctions:73 - Test execution is completed 
+ 2023-04-28 12:05:11 INFO  commonFunctions:43 - Test execution is started 
+ 2023-04-28 12:05:31 INFO  TC_01_Communication_Search:22 - ===================================================
+ 2023-04-28 12:05:31 INFO  TC_01_Communication_Search:23 - ==== Communication search test case execution is started ====
+ 2023-04-28 12:06:15 INFO  TC_01_Communication_Search:29 - ==== communication id is entered  ====
+ 2023-04-28 12:06:16 INFO  TC_01_Communication_Search:43 - ==== Communication search button is clicked ====
+ 2023-04-28 12:06:16 INFO  TC_01_Communication_Search:47 - ==== Communication search results are matching ====
+ 2023-04-28 12:06:16 INFO  TC_01_Communication_Search:58 - Screenshot is captured
+ 2023-04-28 12:06:16 INFO  TC_01_Communication_Search:59 - ==== Communication search test is completed ====
+ 2023-04-28 12:06:16 INFO  TC_01_Communication_Search:60 - ===================================================
+ 2023-04-28 12:06:17 INFO  commonFunctions:73 - Test execution is completed 
+ 
